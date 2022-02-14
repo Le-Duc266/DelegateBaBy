@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\bin\Debug\BirthdayBaBy.exe.config
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\bin\Debug\BirthdayBaBy.exe
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\bin\Debug\BirthdayBaBy.pdb
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\obj\Debug\BirthdayBaBy.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\obj\Debug\BirthdayBaBy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\obj\Debug\BirthdayBaBy.exe
+C:\Users\Admin\source\repos\BirthdayBaBy\BirthdayBaBy\obj\Debug\BirthdayBaBy.pdb
